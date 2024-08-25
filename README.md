@@ -12,4 +12,4 @@ porem em contagem.
 
 - `Src` -> Contém os códigos em .java.
     |-> `Contador.java` :   É o arquivo do contador. 
-    |-> `Processo seletivo` : É o arquivo de um exercicio feito em uma aula anterior. 
+    |-> `Processo seletivo` : É o arquivo de um exercicio feito em uma aula anterior
